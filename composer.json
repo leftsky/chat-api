@@ -1,6 +1,6 @@
 {
   "name": "leftsky/chat-api",
-  "description": "一个基于laravel+workerman的即时聊天接口",
+  "description": "一个基于laravel+workerman的即时聊天接口。",
   "authors": [
     {
       "name": "leftsky",
