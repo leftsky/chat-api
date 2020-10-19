@@ -1,6 +1,6 @@
 <?php
 
-namespace leftsky\chat_api\Models;
+namespace leftsky\Chat\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;

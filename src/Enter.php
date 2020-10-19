@@ -1,6 +1,6 @@
 <?php
 
-namespace leftsky\chat_api;
+namespace leftsky\Chat;
 
 class Enter
 {
